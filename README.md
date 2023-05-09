@@ -1,4 +1,5 @@
 #BLE Peripheral to Publish Battery Level of PC
+
 This project demonstrates how to use Python to create a BLE peripheral device that publishes the battery level of a PC over BLE. The peripheral device can be tested using the NRF Connect mobile app.
 
 Requirements :
